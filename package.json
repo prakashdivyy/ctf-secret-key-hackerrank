@@ -1,0 +1,23 @@
+{
+  "name": "ctf-secret-key-hackerrank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prakashdivyy/ctf-secret-key-hackerrank.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prakashdivyy/ctf-secret-key-hackerrank/issues"
+  },
+  "homepage": "https://github.com/prakashdivyy/ctf-secret-key-hackerrank#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
